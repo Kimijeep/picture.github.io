@@ -10,6 +10,10 @@ body {
 	background: rgba(101, 101, 101, 0.7); margin: auto; padding: 12px;
 }
 
+.box p {
+    color: aliceblue;
+}
+
 .lightbox {
 	zoom: 1.5;
 	position: fixed;
